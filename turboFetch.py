@@ -16,6 +16,8 @@ When this is launched:
           to import the specified maya file
 """
 
+# just a test comment
+
 import sys, os, ast, re, time
 import sip
 import platform
