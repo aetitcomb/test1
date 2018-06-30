@@ -16,12 +16,11 @@ When this is launched:
           to import the specified maya file
 """
 
-<<<<<<< HEAD
+
 # just a test comment
 # and another test comment
+# removed notations
 
-=======
->>>>>>> parent of 4c5237e... Added a test comment
 import sys, os, ast, re, time
 import sip
 import platform
