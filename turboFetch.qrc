@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/loadingImage.png</file>
+    <file>images/turboFetchWindowBanner_1.png</file>
+    <file>images/Turbo_Snail.png</file>
+  </qresource>
+</RCC>
