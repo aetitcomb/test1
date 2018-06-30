@@ -17,6 +17,7 @@ When this is launched:
 """
 
 # just a test comment
+# and another test comment
 
 import sys, os, ast, re, time
 import sip
